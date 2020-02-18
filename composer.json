@@ -6,8 +6,8 @@
             "email": "mrsh13610@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
     "autoload": {
         "psr-4": {"azibom\\HelloWorld\\": "src/"}
-    },
+    }
 }
