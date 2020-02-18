@@ -1,0 +1,12 @@
+<?php 
+
+namespace azibom\HelloWorld;
+
+class Greet
+{
+    public function greet($greet = "Hello World")
+    {
+        return $greet;
+    }
+}
+

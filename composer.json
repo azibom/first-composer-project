@@ -1,0 +1,13 @@
+{
+    "name": "azibom/myfirstcomposerpackage",
+    "authors": [
+        {
+            "name": "cshabanic",
+            "email": "mrsh13610@gmail.com"
+        }
+    ],
+    "require": {}
+    "autoload": {
+        "psr-4": {"azibom\\HelloWorld\\": "src/"}
+    },
+}
